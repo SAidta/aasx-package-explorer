@@ -578,56 +578,56 @@ MIHO,
 
 ## AasxPackageLogic\PackageCentral\PackageConnectorHttpRest.cs
 
-[Line 233, column 17](
-https://github.com/admin-shell-io/aasx-package-explorer/blob/master/src/AasxPackageLogic/PackageCentral/PackageConnectorHttpRest.cs#L233
+[Line 247, column 17](
+https://github.com/admin-shell-io/aasx-package-explorer/blob/master/src/AasxPackageLogic/PackageCentral/PackageConnectorHttpRest.cs#L247
 ), 
 all,
 2021-01-30
 
     check periodically for supported element types
 
-[Line 288, column 13](
-https://github.com/admin-shell-io/aasx-package-explorer/blob/master/src/AasxPackageLogic/PackageCentral/PackageConnectorHttpRest.cs#L288
+[Line 305, column 13](
+https://github.com/admin-shell-io/aasx-package-explorer/blob/master/src/AasxPackageLogic/PackageCentral/PackageConnectorHttpRest.cs#L305
 ), 
 MIHO,
 2021-01-03
 
     check to handle more SMEs for AasEventMsgUpdateValue
 
-[Line 289, column 13](
-https://github.com/admin-shell-io/aasx-package-explorer/blob/master/src/AasxPackageLogic/PackageCentral/PackageConnectorHttpRest.cs#L289
+[Line 306, column 13](
+https://github.com/admin-shell-io/aasx-package-explorer/blob/master/src/AasxPackageLogic/PackageCentral/PackageConnectorHttpRest.cs#L306
 ), 
 MIHO,
 2021-01-04
 
     ValueIds still missing ..
 
-[Line 717, column 17](
-https://github.com/admin-shell-io/aasx-package-explorer/blob/master/src/AasxPackageLogic/PackageCentral/PackageConnectorHttpRest.cs#L717
+[Line 740, column 17](
+https://github.com/admin-shell-io/aasx-package-explorer/blob/master/src/AasxPackageLogic/PackageCentral/PackageConnectorHttpRest.cs#L740
 ), 
 MIHO,
 2021-05-21
 
     make sure, this is required by the specification!
 
-[Line 789, column 17](
-https://github.com/admin-shell-io/aasx-package-explorer/blob/master/src/AasxPackageLogic/PackageCentral/PackageConnectorHttpRest.cs#L789
+[Line 812, column 17](
+https://github.com/admin-shell-io/aasx-package-explorer/blob/master/src/AasxPackageLogic/PackageCentral/PackageConnectorHttpRest.cs#L812
 ), 
 MIHO,
 2021-05-28
 
     implmenent
 
-[Line 798, column 17](
-https://github.com/admin-shell-io/aasx-package-explorer/blob/master/src/AasxPackageLogic/PackageCentral/PackageConnectorHttpRest.cs#L798
+[Line 821, column 17](
+https://github.com/admin-shell-io/aasx-package-explorer/blob/master/src/AasxPackageLogic/PackageCentral/PackageConnectorHttpRest.cs#L821
 ), 
 MIHO,
 2021-05-28
 
     implmenent
 
-[Line 807, column 17](
-https://github.com/admin-shell-io/aasx-package-explorer/blob/master/src/AasxPackageLogic/PackageCentral/PackageConnectorHttpRest.cs#L807
+[Line 830, column 17](
+https://github.com/admin-shell-io/aasx-package-explorer/blob/master/src/AasxPackageLogic/PackageCentral/PackageConnectorHttpRest.cs#L830
 ), 
 MIHO,
 2021-05-28
